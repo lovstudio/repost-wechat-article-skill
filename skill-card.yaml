@@ -1,5 +1,5 @@
 schema: lovstudio/skill-card/v1
-version: "0.1.0"
+version: "0.2.1"
 description: "把外部微信公众号文章转换成来源可核验、原文冻结、发布方增量清楚且不误报原创或发布状态的转载草稿。"
 owner:
   team: "LovStudio"
@@ -115,4 +115,3 @@ distribution:
     lovstudio: not_published
     workbuddy: not_prepared
     skillpay: not_prepared
-

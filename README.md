@@ -1,6 +1,8 @@
-# lov-repost-wechat-article
+# 文章转载（旧入口） · Article Repost (Legacy)
 
-![Version](https://img.shields.io/badge/version-0.1.0-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.1-CC785C)
+
+> 已归并：新任务请使用 `lov-article-creator` 的 `repost` 管线。本目录只保留历史实现与兼容路由，不应继续安装或被语义发现。
 
 把合作方微信公众号原文完整保留下来，在清楚署名、不声明原创和隔离内部语境的前提下，加入发布方开场、判断与品牌收尾，并把结果交给现有公众号发布链远端核验。
 
@@ -82,4 +84,3 @@ python3 scripts/audit_repost.py --help
 ## License
 
 MIT。来源文章、图片、Logo 和其他外部素材的权利仍由调用者与原权利人管理。
-

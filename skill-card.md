@@ -1,4 +1,4 @@
-# Skill Card — lov-repost-wechat-article
+# 文章转载（旧入口） · Article Repost (Legacy) · Skill Card
 
 ## Description
 
@@ -49,7 +49,7 @@ Skill 源码采用 MIT。来源文章、图片、Logo、转载许可和公众号
 
 ## Skill Version
 
-0.1.0
+0.2.0
 
 ## Ethical Considerations
 
