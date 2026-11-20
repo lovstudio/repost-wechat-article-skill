@@ -1,6 +1,6 @@
 # 文章转载（旧入口） · Article Repost (Legacy)
 
-![Version](https://img.shields.io/badge/version-0.2.1-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.2-CC785C)
 
 > 已归并：新任务请使用 `lov-article-creator` 的 `repost` 管线。本目录只保留历史实现与兼容路由，不应继续安装或被语义发现。
 
@@ -31,7 +31,7 @@ ln -s /path/to/repost-wechat-article-skill ~/.agents/skills/lov-repost-wechat-ar
 进入远端分发后，统一安装命令为：
 
 ```bash
-npx skills add lov-repost-wechat-article -g -y
+npx lovstudio skills add repost-wechat-article -g -y
 ```
 
 ## Profile
